@@ -20,7 +20,7 @@ Thành viên: Nguyễn Bá Thành
 
 <img width="1323" height="928" alt="image" src="https://github.com/user-attachments/assets/1bd5a6cf-8980-4e83-8cf1-e3c28a59f599" />
 
-<img width="1317" height="927" alt="image" src="https://github.com/user-attachments/assets/d83c6201-051e-47d2-bef7-92ffa89d4bf5" />
+<img width="1327" height="919" alt="image" src="https://github.com/user-attachments/assets/bd3ef075-50f4-4677-8bdd-76f4b49cc5b8" />
 
 <img width="1318" height="926" alt="image" src="https://github.com/user-attachments/assets/e70d7ea8-cfef-450f-8db2-3cc3f9485731" />
 
